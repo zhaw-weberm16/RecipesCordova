@@ -12,16 +12,16 @@
     "Rapid Application Development",
     "Rapid Application Manufacturing"
   ],
-  "homepage": "https://github.com/zhaw-weberm16/Recipes/",
+  "homepage": "https://github.com/zhaw-weberm16/RecipesCordova/",
   "bugs": {
-    "url": "https://github.com/zhaw-weberm16/Recipes/issues"
+    "url": "https://github.com/zhaw-weberm16/RecipesCordova/issues"
   },
   "author": {
     "name": "Manuel Weber"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhaw-weberm16/Recipes.git"
+    "url": "https://github.com/zhaw-weberm16/RecipesCordova"
   },
   "engines": {
     "node": "7.10.1",
