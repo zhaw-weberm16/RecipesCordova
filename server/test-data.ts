@@ -59,7 +59,7 @@ export class TestData {
                         promises.push(recipeDatabase.create({
                             recipeName: 'Hamburger',
                             preparationTime: '40',
-                            recipe: '1. Zwiebeln würfeln und mit Hackfleisch, Ei, Senf, 2 EL Wasser, Salz, Pfeffer und Paprika gut vermischen\n2. Aus dem Hackteig Hamburger formen\n3. Tomaten, Zwiebeln und Essiggurken in Scheiben schneiden\n4. Hamburgerbrötchen toasten\n5. Hamburger anbraten\n6. Währenddessen Hamburgerbrötchen mit Sauce bestreichen und Tomate, Zwiebeln, Essiggurken und Eisbergsalat darauf verteilen\n7. Hamburgerfleisch auf den Burger legen und den Burger zudecken - En guete!',
+                            recipe: '1. Zwiebeln würfeln und mit Rinderhackfleisch, Ei, Senf, 2 EL Wasser, Salz, Pfeffer und Paprika gut vermischen\n2. Aus dem Hackteig Hamburger formen\n3. Tomaten, Zwiebeln und Essiggurken in Scheiben schneiden\n4. Hamburgerbrötchen toasten\n5. Hamburger anbraten\n6. Währenddessen Hamburgerbrötchen mit Sauce bestreichen und Tomate, Zwiebeln, Essiggurken und Eisbergsalat darauf verteilen\n7. Hamburgerfleisch auf den Burger legen und den Burger zudecken - En guete!',
                             ingredient: [ingredients[0].key],
                             region: regions[2].key
                         }));
