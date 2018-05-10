@@ -85,11 +85,6 @@ var ExampleAppComponent = (function (_super) {
     ExampleAppComponent.prototype.getHandlers = function () {
         return __WEBPACK_IMPORTED_MODULE_3__gui_model_form_handlers__;
     };
-    ExampleAppComponent.prototype.ngOnInit = function () {
-        document.addEventListener("deviceready", function () {
-            alert(device.platform);
-        }, false);
-    };
     return ExampleAppComponent;
 }(__WEBPACK_IMPORTED_MODULE_1_path_framework_weberm16_app_path_framework_path__["PathAppComponent"]));
 ExampleAppComponent = __decorate([

@@ -8,6 +8,7 @@ server/**/*.js.map
 
 # dependencies
 /node_modules
+/recipesCordovaRelease
 
 # IDEs and editors
 /.idea
